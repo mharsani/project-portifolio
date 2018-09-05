@@ -1,2 +1,1 @@
-# project-portifolio
-Project with react
+Example checkout using react (:
